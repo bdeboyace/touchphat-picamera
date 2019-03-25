@@ -1,7 +1,6 @@
 # touchphat-picamera
 Raspberry Pi project utilizing RPi zero, touchphat, picamera software to tweet.
-Touching A - will snap a picture
-Touching 
+
 
 Required installations:
 -- curl https://get.pimoroni.com/touchphat  | bash
